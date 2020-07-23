@@ -7,7 +7,7 @@
 [![Linkedin: Laurita](https://img.shields.io/badge/-Laurita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Lauriacunia/)](https://www.linkedin.com/in/Lauriacunia/)
 
 
-###  Un poco sobre mi...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Un poco sobre mi...  
 
 ```javascript
 const thai = {
