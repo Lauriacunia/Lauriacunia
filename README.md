@@ -12,8 +12,8 @@
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Java, HTML, CSS],
-  skills: [SpringBoot, Maven, MySQL, MongoDb, OOP ],
+  code: [Java 8, HTML 5, CSS 3],
+  Technical skills: [SpringBoot, Maven, MySQL, MongoDb, OOP ],
 }
 ```
 ![UNA HISTORIA_ AN STORY](https://user-images.githubusercontent.com/63796774/88343842-b3f04a80-cd18-11ea-83b0-5e12d6eee8c6.gif)
