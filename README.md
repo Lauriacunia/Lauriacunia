@@ -1,6 +1,6 @@
 <h2><em> ¡Bienvenid@!<img src="https://media.giphy.com/media/fFEFxS3DE5VIY/source.gif" width="50"></em></h2>
 
-<p><em><img src="https://user-images.githubusercontent.com/63796774/88420271-02572500-cdbd-11ea-887c-6b2cd6fb1a17.png">  
+<p><em><img src="https://user-images.githubusercontent.com/63796774/107132170-7ec5d700-68bb-11eb-84f0-de7515e83f07.png">  
 </em></p>
 
 [![Twitter: Laurita](https://img.shields.io/twitter/follow/Laurita?style=social)](https://twitter.com/Lauritaacunia)
