@@ -18,9 +18,6 @@ const thai = {
 ```
 ![UNA HISTORIA_ AN STORY](https://user-images.githubusercontent.com/63796774/88343842-b3f04a80-cd18-11ea-83b0-5e12d6eee8c6.gif)
 
- <em><b>Mi vida podría ser una letra de "El Cuarteto de Nos": ya fui hippie, ya viajé, ya estudié, ya me recibí en la UBA,ya hice un podcats, ya escribi, ya enseñé y aprendí". ¿y ahora qué? "Vos siempre cambiando! No cambiás más!"
-¡Ahora quiero se desarrolladora Backed! ¿porqué? porque amo los desafíos creativos, porque me encanta aprender cosas nuevas, y porque todavía siento me falta mejorar el estribillo de mi canción. </b> :)</em>
-
 
 ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=Lauriacunia&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
